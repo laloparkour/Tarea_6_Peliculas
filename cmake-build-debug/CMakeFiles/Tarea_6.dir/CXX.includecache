@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/Pelicula.h
+Persona.h
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/Persona.h
+
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/Persona.h
+
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/main.cpp
+iostream
+-
+Pelicula.h
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/Pelicula.h
+

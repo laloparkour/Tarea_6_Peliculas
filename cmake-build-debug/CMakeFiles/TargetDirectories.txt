@@ -1,0 +1,3 @@
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/cmake-build-debug/CMakeFiles/Tarea_6.dir
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Laloparkour/Documents/UABCS/2do semestre/Programacion/Unidad 6/Tarea 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
